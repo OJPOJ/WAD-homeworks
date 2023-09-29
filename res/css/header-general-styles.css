@@ -2,6 +2,10 @@ p {
 	color: red;
 }
 
+a:hover{
+	background-color: darkblue;
+}
+
 .header{
 	display: flex;
 	flex-direction: row;
@@ -19,6 +23,7 @@ p {
 .links p{
 	margin: 1vw;
 }
+
 
 .header img{
 	width: 3vw;
