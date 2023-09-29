@@ -38,6 +38,9 @@
 #textarea-post-content{
 	max-width: 500px;
 }
+label + *{
+	background: rgba(255, 255, 255, 0.536);
+}
 
 
 a:hover{
