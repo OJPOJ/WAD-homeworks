@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .addpost-form-section{
 	display: flex;
 	align-items: center;
@@ -26,4 +27,99 @@
 	align-items: center;
 	width: 100%;
 	justify-content: space-between;
+=======
+p {
+	color: red;
+}
+
+a:hover{
+	background-color: darkblue;
+}
+
+.header{
+	display: flex;
+	flex-direction: row;
+	border-radius: 10px;
+	background-color: gray;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.links{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+.links p{
+	margin: 1vw;
+}
+
+
+.header img{
+	width: 3vw;
+	height: 3vw;
+	margin-right: 1vw;
+}
+.post{
+	margin-top: 2vw;
+	max-width: 50vw;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+.block{
+	border-radius: 10px;
+	margin-top: 2vw;
+	padding: 5vw;
+	background-color: brown;
+}
+.posthead img{
+	width: 2vw;
+	height: 2vw;
+}
+.posthead{
+	padding: 1vw;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	background-color: yellowgreen;
+}
+.postcomment img{
+	width: 2vw;
+	height: 2vw;
+}
+.postcomment{
+	margin-top: 2vw;
+	border-radius: 10px;
+	padding: 1vw;
+	background-color: yellowgreen;
+}
+.postcomment p{
+	margin: 2vw;
+}
+#postfooter{
+	padding: 1vw;
+	background-color: yellowgreen;
+}
+#postfooter img{
+	width: 2vw;
+	height: 2vw;
+}
+.pagebody{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.footer{
+	margin-top: 2vw;
+	display: flex;
+	flex-direction: row;
+	border-radius: 10px;
+	background-color: gray;
+	justify-content: space-between;
+	align-items: center;
+>>>>>>> fd7731e3a7073fc50b882c21b8176c3dc926f2e3
 }
