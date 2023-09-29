@@ -1,21 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <meta charset="UTF-8">
-<title>Page Title</title>
+<title>Add a post</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="res/css/header-general-styles.css">
+<link rel="stylesheet" type="text/css" href="res/css/header-general-styles.css">
 <style>
 </style>
-<script src=""></script>
 <body>
-
-<img src="img_la.jpg" alt="LA" style="width:100%">
-
-<div class="">
- <h1>This is a Heading</h1>
- <p>This is a paragraph.</p>
- <p>This is another paragraph.</p>
-</div>
-
+    <header></header>
+    <body>
+        <section class = "addpost-form-section">
+            <div class = "addpost-form-wrapper">
+                <form class = "addpost-form">
+                    <div>
+                        <label for="post-body">Post body</label>
+                        <textarea name="textarea-post-content"></textarea>
+                    </div>
+                    <div>
+                        <label for="file-select">Select file</label>
+                        <input type="file" >
+                    </div>
+                </form>
+                <div class="form-button-container">
+                    <button name="addpost-button" onclick="window.location.href = 'index.html';">Add post</button>
+                </div>
+            </div>
+        </section>
+    </body>
+    <footer></footer>
 </body>
 </html>

@@ -1,3 +1,29 @@
-p {
-	color: red;
+.addpost-form-section{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	background-color: blueviolet;
+}
+.addpost-form-wrapper{
+	display: flex;
+	flex-direction: column;
+	width: min-content;
+	align-items: center;
+	background-color: aquamarine;
+	margin: 10px;
+	border: gray;
+	padding: 10px;
+}
+.addpost-form{
+	display: flex;
+	align-items: center;
+	align-content: space-between;
+	flex-direction: column;
+}
+.addpost-form > div{
+	display: flex;
+	align-items: center;
+	width: 100%;
+	justify-content: space-between;
 }
