@@ -193,13 +193,6 @@ body{
 	margin: 1vw;
 }
 
-<<<<<<< Updated upstream
-div ~ p {
-	background-color: yellow;
-}
-
-=======
->>>>>>> Stashed changes
 ::selection {
 	outline: auto;
 	outline-color: aqua;
