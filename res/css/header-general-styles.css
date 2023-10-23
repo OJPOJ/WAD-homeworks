@@ -103,32 +103,30 @@ body{
 .block{
 	border-radius: 10px;
 	margin-top: 2vw;
-	padding: 10vw;
+	padding: 11vw;
 	background-color:#96bfe6;
 	border-style: solid;
 	border-width: medium;
 	border-color: #000831;
 }
 .posthead img{
-	padding: 1vw;
-	width: 3vw;
-	height: 3vw;
-	border-radius: 10px;
+	width: 5vw;
+	height: 5vw;
+	border-radius: 50%;
 	border-style: solid;
 	border-width: thin;
 	border-color: #000831;
 }
 .posthead p {
 	padding: 1vw;
-	padding-top: 2vw;
-	padding-bottom: 2vw;
 	border-radius: 10px;
 	border-style: solid;
 	border-width: thin;
 	border-color: #000831;
 }
 .posthead{
-	padding: 1vw;
+	padding: 0vw 1vw 0vw 1vw;
+	
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
@@ -137,27 +135,32 @@ body{
 	border-radius: 10px 10px 0px 0px;
 
 }
-.postcomment img{
-	width: 2vw;
-	height: 2vw;
-}
-.postcomment{
-	margin-top: 2vw;
-	border-radius: 10px;
+.postbody{
 	padding: 1vw;
-	background-color: #b5ffc2;
-	border-style: solid;
-	border-width: medium;
-	border-color: #000831;
-}
-.postcomment p{
-	margin: 2vw;
-}
-#postfooter{
-	padding: 1vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
 	background-color: #96bfe6;
 }
-#postfooter img{
+.postbody img{
+	border-radius: 10px;
+	width: 45vw;
+	height: 45vw;
+	border-style: solid;
+	border-width: thin;
+	border-color: #000831;
+}
+.postbody p{
+	align-self: flex-start;
+}
+
+.postfooter{
+	padding: 1vw;
+	border-radius: 0px 0px 10px 10px;
+	background-color: #96bfe6;
+}
+.postfooter img{
 	width: 2vw;
 	height: 2vw;
 }

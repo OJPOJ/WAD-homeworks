@@ -28,7 +28,7 @@ window.onload = function () {
                 post.classList.toggle("post")
                 //header
                 let postheader = document.createElement("div")
-                post.classList.toggle("posthead")
+                postheader.classList.toggle("posthead")
                 let headerimage = document.createElement("img")
                 headerimage.src="res/images/me.png"
                 headerimage.alt="LA"
@@ -37,7 +37,7 @@ window.onload = function () {
                 postheader.append(headerimage,headerdate)
                 //body
                 let postbody = document.createElement("div")
-                post.classList.toggle("postbody")
+                postbody.classList.toggle("postbody")
                 let bodyimage = document.createElement("img")
                 bodyimage.src=p.pictureURI
                 let bodytext = document.createElement("p")
@@ -48,7 +48,7 @@ window.onload = function () {
                 postbody.appendChild(bodytext)
                 //footer
                 let postfooter = document.createElement("div")
-                post.classList.toggle("postfooter")
+                postfooter.classList.toggle("postfooter")
                 let footerimage = document.createElement("img")
                 footerimage.src="res/images/likebutton.png"
                 postfooter.append(footerimage)
