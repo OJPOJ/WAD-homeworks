@@ -14,6 +14,7 @@ window.onclick = function(event) {
       }
     }
   }
+
 }
 //task 4:
 //let jsonUri = "https://api.npoint.io/5b42eff78c604cdf090c" // if bin is expired please use: res/json/posts.json
