@@ -153,11 +153,11 @@ body{
 .postcomment p{
 	margin: 2vw;
 }
-#postfooter{
+.postfooter{
 	padding: 1vw;
 	background-color: #96bfe6;
 }
-#postfooter img{
+.postfooter img{
 	width: 2vw;
 	height: 2vw;
 }
