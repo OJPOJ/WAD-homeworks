@@ -15,8 +15,10 @@ window.onclick = function(event) {
     }
   }
 }
-
-let jsonUri = "https://api.npoint.io/5b42eff78c604cdf090c" // if bin is expired please use: res/json/posts.json
+//task 4:
+//let jsonUri = "https://api.npoint.io/5b42eff78c604cdf090c" // if bin is expired please use: res/json/posts.json
+//task 5:
+let jsonUri = "res/json/posts.json"
 window.onload = function () {
   fetch(jsonUri) 
         .then((response) => response.json())
