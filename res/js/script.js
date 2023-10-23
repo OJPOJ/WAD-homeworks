@@ -14,9 +14,9 @@ window.onclick = function(event) {
       }
     }
   }
-} 
+}
 
-let jsonUri = "res/json/posts.json"
+let jsonUri = "https://api.jsonbin.io/v3/b/65368fb40574da7622bca271"
 window.onload = function () {
   fetch(jsonUri) 
         .then((response) => response.json())
