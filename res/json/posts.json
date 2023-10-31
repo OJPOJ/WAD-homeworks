@@ -1,62 +1,62 @@
 [
   {
     "postId": 1,
-    "date": "23.10.2023",
+    "date": "20.10.2023",
     "pictureURI": "https://www.ikea.com/au/en/images/products/kopparfall-picture-moonscape__0997459_pe822680_s5.jpg",
-    "text": "Lorem ipsum..."
+    "text": "The efficiency we have at removing trash has made creating trash more acceptable."
   },
   {
     "postId": 2,
-    "date": "23.10.2023",
-    "pictureURI": "",
-    "text": "Lorem ipsum..."
+    "date": "21.10.2023",
+    "pictureURI": "/res/images/cut.png",
+    "text": "The truth is that you pay for your lifestyle in hours."
   },
   {
     "postId": 3,
-    "date": "23.10.2023",
+    "date": "22.10.2023",
     "pictureURI": "",
-    "text": "Lorem ipsum..."
+    "text": "Flash photography is best used in full sunlight."
   },
   {
     "postId": 4,
-    "date": "23.10.2023",
-    "pictureURI": "",
-    "text": "Lorem ipsum..."
+    "date": "22.10.2023",
+    "pictureURI": "/res/images/sleep.jpg",
+    "text": "He fumbled in the darkness looking for the light switch, but when he finally found it there was someone already there."
   },
   {
     "postId": 5,
-    "date": "23.10.2023",
+    "date": "22.10.2023",
     "pictureURI": "",
-    "text": "Lorem ipsum..."
+    "text": "Nobody loves a pig wearing lipstick."
   },
   {
     "postId": 6,
     "date": "23.10.2023",
     "pictureURI": "",
-    "text": "Lorem ipsum..."
+    "text": "My secretary is the only person who truly understands my stamp-collecting obsession."
   },
   {
     "postId": 7,
     "date": "23.10.2023",
-    "pictureURI": "",
-    "text": "Lorem ipsum..."
+    "pictureURI": "/res/images/manage.jpg",
+    "text": "As the asteroid hurtled toward earth, Becky was upset her dentist appointment had been canceled."
   },
   {
     "postId": 8,
     "date": "23.10.2023",
     "pictureURI": "",
-    "text": "Lorem ipsum..."
+    "text": "Malls are great places to shop; I can find everything I need under one roof."
   },
   {
     "postId": 9,
     "date": "23.10.2023",
     "pictureURI": "",
-    "text": "Lorem ipsum..."
+    "text": "He wondered if she would appreciate his toenail collection."
   },
   {
     "postId": 10,
     "date": "23.10.2023",
     "pictureURI": "",
-    "text": "Lorem ipsum..."
+    "text": "He learned the important lesson that a picnic at the beach on a windy day is a bad idea."
   }
 ]
